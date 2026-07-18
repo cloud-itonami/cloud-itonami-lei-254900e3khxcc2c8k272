@@ -1,0 +1,4 @@
+[["jacobs-site-1" :site/url "https://www.jacobs.com" 1 :add]
+ ["jacobs-site-1" :site/checked-at "2026-07-18" 1 :add]
+ ["jacobs-site-1" :site/http-status 200 1 :add]
+ ["jacobs-site-1" :site/title "Homepage | Jacobs" 1 :add]]
