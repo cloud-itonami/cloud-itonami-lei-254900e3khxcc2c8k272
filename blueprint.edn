@@ -1,6 +1,13 @@
-{:company/legal-name "Jacobs Solutions Inc."
- :company/lei "254900E3KHXCC2C8K272"
+{:company/gleif-note "registry facts from GLEIF (https://api.gleif.org/api/v1/lei-records/254900E3KHXCC2C8K272), retrieved 2026-08-25 by scripts/lei-gleif-ingest.cljs (GET only)"
+ :company/inquiry-form-url "https://www.jacobs.com/contact"
  :company/jurisdiction "United States"
- :company/website "https://www.jacobs.com"
+ :company/legal-address "C/O THE CORPORATION TRUST COMPANY, CORPORATION TRUST CENTER, 1209 ORANGE ST, 19801, WILMINGTON, US-DE, US"
+ :company/legal-form-elf "XTIQ"
+ :company/legal-jurisdiction "US-DE"
+ :company/legal-name "Jacobs Solutions Inc."
+ :company/lei "254900E3KHXCC2C8K272"
+ :company/lei-status "ISSUED"
+ :company/postal-address "1999 Bryan Street, Suite 3500, 75201, Dallas, US-TX, US"
+ :company/registration-number "6655558"
  :company/ticker "J"
- :company/inquiry-form-url "https://www.jacobs.com/contact"}
+ :company/website "https://www.jacobs.com"}
